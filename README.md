@@ -11,6 +11,6 @@
   
 - Реализовать React Native приложение по предоствленному дизайну (ссылка на дизайн ниже) 
 
-## Design
+## Дизайн
 
 - [**Figma**](https://www.figma.com/file/3znMBzijtpM7NaKSs5FPvD/Test-App-Design?node-id=33%3A444&viewport=1450%2C1087%2C0.49045488238334656)
